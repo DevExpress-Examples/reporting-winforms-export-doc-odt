@@ -28,9 +28,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(235, 162);
+            this.button1.Location = new System.Drawing.Point(110, 83);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(290, 23);
+            this.button1.Size = new System.Drawing.Size(151, 23);
             this.button1.TabIndex = 0;
             this.button1.Text = "Show Preview";
             this.button1.UseVisualStyleBackColor = true;
@@ -40,7 +40,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(791, 366);
+            this.ClientSize = new System.Drawing.Size(371, 188);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
