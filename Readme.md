@@ -25,7 +25,7 @@ This example shows how to add custom bar items to the **File Export** drop down 
 - [Reporting for WinForms - How to Use MailKit to Send a Report as a Document in PDF](https://github.com/DevExpress-Examples/reporting-winforms-mailkit-email-report-pdf)
 - [Reporting for WinForms - Export a Report to ZUGFeRD](https://github.com/DevExpress-Examples/reporting-winforms-export-pdf-zugferd)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-export-doc-odt&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-export-doc-odt&~~~was_helpful=no)
 
